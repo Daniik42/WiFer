@@ -1,6 +1,6 @@
 # WiFer
 
-### Features ###
+### 💻 Features ###
 
 * Enable/disable wifi
 * Enable/disable or reset Ethernet
